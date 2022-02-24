@@ -6,4 +6,8 @@ while n != 1:
         n = n//2
     else:
         n = 3*n + 1
+<<<<<<< HEAD
 print(n) #affichage du resultat et test de commentaires sur vs code
+=======
+print(n) #affichage du resultat et test de commentaires internet
+>>>>>>> bf4f7cae06a573c7d34925c84fbc173bc2e6dcc4
