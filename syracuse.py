@@ -7,4 +7,4 @@ while n != 1:
     else:
         n = 3*n + 1
 print(n)
-#ajout de commentaire en environnement virtuel
+#ajout de commentaire en ligne
