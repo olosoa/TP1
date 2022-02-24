@@ -6,4 +6,4 @@ while n != 1:
         n = n//2
     else:
         n = 3*n + 1
-print(n) #affichage du resultat et test de commentaires eb l
+print(n) #affichage du resultat et test de commentaires sur vs code
