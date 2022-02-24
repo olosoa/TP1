@@ -12,4 +12,4 @@ def Egypt(a,b):
 
 a = int(input())
 b = int(input())
-Egypt(a,b) #rajout de commentaires
+Egypt(a,b) #rajout de commentaires sur vscode
