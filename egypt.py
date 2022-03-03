@@ -13,3 +13,5 @@ def Egypt(a,b):
 a = int(input())
 b = int(input())
 Egypt(a,b)
+
+#commentaires sur vscode
