@@ -12,6 +12,7 @@ def Egypt(a,b):
 
 a = int(input())
 b = int(input())
+print("Le resultat est:")
 Egypt(a,b)
 
 #commentaires sur vscode
