@@ -11,3 +11,8 @@ while n != 1:
 print(sr)
 
 #commentaires sur myenv
+
+#Test en ecriture
+#Test en ecriture
+#Test en ecriture
+#Test en ecriture

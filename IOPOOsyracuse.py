@@ -16,14 +16,26 @@ class TP:
                     sr.append(n)
                 
                 return (sr)
+
+        def ecr(self):
+            with open("syracuse.py", "a") as fichier:
+                fichier.write("\n#Test en ecriture")
+
+        def li(self):
+            with open("syracuse.py", "r") as fichier:
+                print (fichier.read())      
+
 resultat=TP()
 print (resultat.syra())
 
+print(resultat.ecr())
+print(resultat.li())
 
-with open("syracuse.py", "a") as fichier:
-    fichier.write("\n#Test en ecriture")
 
-with open("syracuse.py", "r") as fichier:
-    print (fichier.read())
+#with open("syracuse.py", "a") as fichier:
+#    fichier.write("\n#Test en ecriture")
+
+#with open("syracuse.py", "r") as fichier:
+#    print (fichier.read())
 
 
