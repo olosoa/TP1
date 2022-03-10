@@ -27,7 +27,6 @@ class TP:
 
 resultat=TP()
 print (resultat.syra())
-
 print(resultat.ecr())
 print(resultat.li())
 
